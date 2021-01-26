@@ -1,6 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Yumme
+A React.js web app that allows users to search for restaurants in specific location using Yelp api.
 
-## Available Scripts
+## Demo
+![Alt Text](https://media.giphy.com/media/NGhhELec2FsvyJgnWV/giphy.gif)
+
+## How to run
 
 In the project directory, you can run:
 
